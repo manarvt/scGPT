@@ -1,7 +1,7 @@
 
 
 
-MAJOR_TISSUE_LIST  = ["heart", "blood", "brain", "lung", "kidney", "intestine", "pancreas"]
+MAJOR_TISSUE_LIST  = ["artery"]
 VERSION = "2023-05-08"
 
 CANCER_LIST_PATH = "./cancer_list.txt"
